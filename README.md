@@ -147,3 +147,6 @@ A planetoid (or minor planet) orbits the Sun but is not a planet or comet.
 
 * [Vesta](https://en.wikipedia.org/wiki/4_Vesta)
   * Vesta (minor-planet designation: 4 Vesta) is one of the largest objects in the asteroid belt, with a [mean diameter](https://en.wikipedia.org/wiki/Equivalent_radius) of 525 kilometres (326 mi). It was discovered by the German astronomer [Heinrich Wilhelm Matthias Olbers](https://en.wikipedia.org/wiki/Heinrich_Wilhelm_Matthias_Olbers) on 29 March 1807 and is named after Vesta, the virgin goddess of home and hearth from [Roman mythology](https://en.wikipedia.org/wiki/Roman_mythology).
+
+* [85 IO](https://en.wikipedia.org/wiki/85_Io)
+  * 85 Io is a [carbonaceous asteroid](https://en.wikipedia.org/wiki/Carbonaceous_chondrite) in the central region of the asteroid belt, approximately 170 kilometers in diameter. It is an identified [Eunomian interloper](https://en.wikipedia.org/wiki/Eunomia_family#Interlopers).
