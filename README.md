@@ -20,6 +20,10 @@ As a result of the [formation of the Solar System](https://en.wikipedia.org/wiki
 
 </br>
 
+The [angular momentum](https://en.wikipedia.org/wiki/Angular_momentum) of the Solar System is a measure of the total amount of orbital and rotational momentum possessed by all its moving components. Although the Sun dominates the system by mass, it accounts for only about 2% of the angular momentum.[67][68] The planets, dominated by Jupiter, account for most of the rest of the angular momentum due to the combination of their mass, orbit, and distance from the Sun, with a possibly significant contribution from comets.
+
+</br>
+
 # Planets:
 * [Mercury](https://en.wikipedia.org/wiki/Mercury_(planet))
   * Mercury is the first planet from the Sun and the smallest in the Solar System. It is a rocky planet with a trace atmosphere and a surface gravity slightly higher than that of Mars. The surface of Mercury is similar to Earth's Moon, being cratered, with an expansive rupes system generated from thrust faults, and bright ray systems, formed by ejecta. Its largest crater, Caloris Planitia, has a diameter of 1,550 km (960 mi), which is about one-third the diameter of the planet (4,880 km or 3,030 mi). Being the most inferior orbiting planet, it always appears close to the Sun in Earth's sky, either as a "morning star" or an "evening star". It is the planet with the highest delta-v required for travel from Earth, as well as to and from the other planets in the Solar System.
