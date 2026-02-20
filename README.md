@@ -52,6 +52,8 @@ According to the [IAU](https://en.wikipedia.org/wiki/IAU_definition_of_planet) d
   * Neptune is the eighth and farthest known planet orbiting the Sun. It is the fourth-largest planet in the Solar System by diameter, the third-most-massive planet, and the densest [giant planet](https://en.wikipedia.org/wiki/Giant_planet).
 
 # Minor Planets:
+Minor planets or planetoids are astronomical objects that move in a direct orbit around the sun, but do not meet the criteria for classification as a planet – because they have not cleared their orbit accordingly – and furthermore cannot be classified as a comet or meteoroid.
+
 * [Ceres](https://en.wikipedia.org/wiki/Ceres_(dwarf_planet))
   * Ceres ([minor-planet designation](https://en.wikipedia.org/wiki/Minor-planet_designation): 1 Ceres) is a [dwarf planet](https://en.wikipedia.org/wiki/Dwarf_planet) in the main asteroid belt between the orbits of Mars and Jupiter.
 
