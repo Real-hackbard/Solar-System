@@ -43,6 +43,8 @@ The [angular momentum](https://en.wikipedia.org/wiki/Angular_momentum) of the So
 * [Saturn](https://en.wikipedia.org/wiki/Saturn)
   * Saturn is the sixth planet from the Sun and the second largest in the Solar System, after Jupiter. It is a [gas giant](https://en.wikipedia.org/wiki/Gas_giant), with an average radius of about 9 times that of Earth.
 
+* [Uranus](https://en.wikipedia.org/wiki/Uranus)
+  * Uranus is the seventh planet from the Sun. It is a gaseous cyan-coloured [ice giant](https://en.wikipedia.org/wiki/Ice_giant). Most of the planet is made of water, ammonia, and [methane](https://en.wikipedia.org/wiki/Methane) in a [supercritical phase of matter](https://en.wikipedia.org/wiki/Supercritical_fluid), which astronomy calls "ice" or volatiles.
 
 
 
