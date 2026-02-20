@@ -10,7 +10,7 @@
 
 </br>
 
-The planets and other large objects in orbit around the Sun lie near the invariable plane of the Solar System, as does Earth's orbit, known as the ecliptic, and most closely the orbit of Jupiter, with an inclination to it of 0.3219°. Smaller icy objects such as comets frequently orbit at significantly greater angles to this plane. Most of the planets in the Solar System have secondary systems of their own, being orbited by natural satellites called moons. All of the largest natural satellites are in synchronous rotation, with one face permanently turned toward their parent. The four giant planets have planetary rings, thin discs of tiny particles that orbit them in unison.
+The planets and other large objects in orbit around the Sun lie near the [invariable plane of the Solar System](https://en.wikipedia.org/wiki/Invariable_plane#Solar_System), as does Earth's orbit, known as the ecliptic, and most closely the orbit of Jupiter, with an inclination to it of 0.3219°. Smaller icy objects such as comets frequently orbit at significantly greater angles to this plane. Most of the planets in the Solar System have secondary systems of their own, being orbited by natural satellites called moons. All of the largest natural satellites are in synchronous rotation, with one face permanently turned toward their parent. The four giant planets have planetary rings, thin discs of tiny particles that orbit them in unison.
 
 
 
