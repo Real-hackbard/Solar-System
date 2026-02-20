@@ -55,3 +55,6 @@ The [angular momentum](https://en.wikipedia.org/wiki/Angular_momentum) of the So
 
 * [Eris](https://simple.wikipedia.org/wiki/Eris_(dwarf_planet))
   * Eris (symbol ⯰) is a dwarf planet and a [trans-Neptunian](https://simple.wikipedia.org/wiki/Trans-Neptunian_object) object (TNO). It is the second-largest known dwarf planet in the Solar System. 
+
+* [Haumea](https://simple.wikipedia.org/wiki/Haumea_(dwarf_planet))
+  * 136108 Haumea (symbol 🝻) is a [dwarf planet](https://simple.wikipedia.org/wiki/Dwarf_planet) in the Solar System. Its discovery was announced in 2005 by astronomers Michael E. Brown, Chad Trujillo and David Rabinowitz of the United States, and J. L. Ortiz of Spain. 
