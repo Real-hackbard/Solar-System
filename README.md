@@ -34,7 +34,8 @@ The [angular momentum](https://en.wikipedia.org/wiki/Angular_momentum) of the So
 * [Earth](https://en.wikipedia.org/wiki/Earth)
   * Earth is the third planet from the Sun and the only astronomical object known to harbor life. This is made possible by Earth being an [ocean world](https://en.wikipedia.org/wiki/Ocean_world), the only one in the Solar System sustaining liquid surface water. Almost all of Earth's water is contained in its global ocean, covering 70.8% of Earth's crust. The remaining 29.2% of Earth's crust is land, most of which is located in the form of continental landmasses within Earth's land hemisphere.
 
-
+* [Mars](https://en.wikipedia.org/wiki/Mars)
+  * Mars is the fourth planet from the Sun. It is also known as the "Red Planet", for its [orange-red appearance](https://en.wikipedia.org/wiki/Mars_surface_color). Mars is a desert-like rocky planet with a tenuous atmosphere that is primarily [carbon dioxide](https://en.wikipedia.org/wiki/Carbon_dioxide) (CO2). At the average surface level the atmospheric pressure is a few thousandths of Earth's, atmospheric temperature ranges from −153 to 20 °C (−243 to 68 °F), and cosmic radiation is high.
 
 
 
