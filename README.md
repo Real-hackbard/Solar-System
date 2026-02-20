@@ -72,4 +72,5 @@ Minor planets or planetoids are astronomical objects that move in a direct orbit
 # Comets:
 A comet is an icy, [small Solar System body](https://en.wikipedia.org/wiki/Small_Solar_System_body) or [interstellar object](https://en.wikipedia.org/wiki/Interstellar_object) that warms and begins to release gases when passing close to the Sun, a process called [outgassing](https://en.wikipedia.org/wiki/Outgassing). This produces an extended, gravitationally unbound atmosphere or coma surrounding the nucleus, and sometimes a tail of gas and dust gas blown out from the coma.
 
-* 
+* [Biela](https://en.wikipedia.org/wiki/Biela%27s_Comet)
+  * Biela's Comet or Comet Biela (official designation: 3D/Biela) was a periodic [Jupiter-family comet](https://en.wikipedia.org/wiki/Jupiter-family_comet) first recorded in 1772 by Montaigne and [Messier](https://en.wikipedia.org/wiki/Charles_Messier) and finally identified as periodic in 1826 by Wilhelm von Biela.
