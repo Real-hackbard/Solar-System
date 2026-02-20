@@ -25,6 +25,8 @@ The [angular momentum](https://en.wikipedia.org/wiki/Angular_momentum) of the So
 </br>
 
 # Planets:
+According to the [IAU](https://en.wikipedia.org/wiki/IAU_definition_of_planet) definition, there are eight planets in the Solar System, which are (in increasing distance from the Sun): Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Jupiter is the largest, at 318 Earth masses, whereas Mercury is the smallest, at 0.055 [Earth masses](https://en.wikipedia.org/wiki/Earth_mass).
+
 * [Mercury](https://en.wikipedia.org/wiki/Mercury_(planet))
   * Mercury is the first planet from the Sun and the [smallest in the Solar System](https://en.wikipedia.org/wiki/List_of_Solar_System_objects_by_size). It is a [rocky planet](https://en.wikipedia.org/wiki/Terrestrial_planet) with a trace atmosphere and a surface gravity slightly higher than that of Mars. The surface of Mercury is similar to Earth's Moon, being cratered, with an expansive rupes system generated from thrust faults, and bright ray systems, formed by ejecta.
  
