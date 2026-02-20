@@ -124,3 +124,5 @@ A planetoid (or minor planet) orbits the Sun but is not a planet or comet.
 * [Eros](https://en.wikipedia.org/wiki/433_Eros)
   * 433 Eros is a stony asteroid of the [Amor group](https://en.wikipedia.org/wiki/Amor_asteroid), and the first discovered, and second-largest near-Earth object. It has an elongated shape and a [volume-equivalent diameter](https://en.wikipedia.org/wiki/Equivalent_spherical_diameter) of approximately 16.8 kilometers (10.4 miles).
 
+* [Davida](https://en.wikipedia.org/wiki/511_Davida)
+  * 511 Davida is a large C-type asteroid in the [asteroid belt](https://en.wikipedia.org/wiki/Asteroid_belt). It is one of the [largest asteroids](https://en.wikipedia.org/wiki/List_of_exceptional_asteroids); approximately tied for 7th place, to within measurement uncertainties, and the 5th or 6th most massive.
