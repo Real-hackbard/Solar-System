@@ -83,3 +83,6 @@ A comet is an icy, [small Solar System body](https://en.wikipedia.org/wiki/Small
 
 * [Encke](https://en.wikipedia.org/wiki/Comet_Encke)
   * Comet Encke /ˈɛŋki/, or Encke's Comet (official designation: 2P/Encke), is a [periodic comet](https://en.wikipedia.org/wiki/List_of_periodic_comets) that completes an orbit of the Sun once every 3.3 years.
+
+* [Giacobini–Zinner](https://en.wikipedia.org/wiki/21P/Giacobini%E2%80%93Zinner)
+  * Comet Giacobini–Zinner (officially designated as 21P/Giacobini–Zinner) is a periodic comet in the Solar System. It was discovered by [Michel Giacobini](https://en.wikipedia.org/wiki/Michel_Giacobini), who observed it in the constellation of Aquarius on 20 December 1900.
