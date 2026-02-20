@@ -144,3 +144,6 @@ A planetoid (or minor planet) orbits the Sun but is not a planet or comet.
 
 * [Pallas](https://en.wikipedia.org/wiki/2_Pallas)
   * Pallas (minor-planet designation: 2 Pallas) is the [third-largest asteroid](https://en.wikipedia.org/wiki/List_of_exceptional_asteroids#Largest_by_diameter) in the Solar System by volume and mass. It is the second asteroid to have been discovered, after Ceres, and is likely a remnant [protoplanet](https://en.wikipedia.org/wiki/Protoplanet).
+
+* [Vesta](https://en.wikipedia.org/wiki/4_Vesta)
+  * Vesta (minor-planet designation: 4 Vesta) is one of the largest objects in the asteroid belt, with a [mean diameter](https://en.wikipedia.org/wiki/Equivalent_radius) of 525 kilometres (326 mi). It was discovered by the German astronomer [Heinrich Wilhelm Matthias Olbers](https://en.wikipedia.org/wiki/Heinrich_Wilhelm_Matthias_Olbers) on 29 March 1807 and is named after Vesta, the virgin goddess of home and hearth from [Roman mythology](https://en.wikipedia.org/wiki/Roman_mythology).
