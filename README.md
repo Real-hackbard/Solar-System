@@ -141,3 +141,6 @@ A planetoid (or minor planet) orbits the Sun but is not a planet or comet.
  
 * [Kerstin](https://en.wikipedia.org/wiki/842_Kerstin)
   * 842 Kerstin (prov. designation: A916 TB or 1916 AM) is a dark [background asteroid](https://en.wikipedia.org/wiki/Asteroid_family#Background_asteroid) from the outer regions of the asteroid belt. It was discovered on 1 October 1916, by German astronomer [Max Wolf](https://en.wikipedia.org/wiki/Max_Wolf) at the [Heidelberg-Königstuhl State Observatory](https://en.wikipedia.org/wiki/Heidelberg-K%C3%B6nigstuhl_State_Observatory) in southwest Germany.
+
+* [Pallas](https://en.wikipedia.org/wiki/2_Pallas)
+  * Pallas (minor-planet designation: 2 Pallas) is the [third-largest asteroid](https://en.wikipedia.org/wiki/List_of_exceptional_asteroids#Largest_by_diameter) in the Solar System by volume and mass. It is the second asteroid to have been discovered, after Ceres, and is likely a remnant [protoplanet](https://en.wikipedia.org/wiki/Protoplanet).
