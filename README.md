@@ -129,3 +129,6 @@ A planetoid (or minor planet) orbits the Sun but is not a planet or comet.
 
 * [Hathor](https://en.wikipedia.org/wiki/2340_Hathor)
   * 2340 Hathor (/ˈhæθɔːr, -ər/), provisional designation 1976 UA, is an eccentric stony asteroid, classified as near-Earth object and [potentially hazardous asteroid](https://en.wikipedia.org/wiki/Potentially_hazardous_object).
+
+* [Icarus](https://en.wikipedia.org/wiki/1566_Icarus)
+  * 1566 Icarus (/ˈɪkərəs/ IK-ə-rəs; provisional designation: 1949 MA) is a large near-Earth object of the [Apollo group](https://en.wikipedia.org/wiki/Apollo_asteroid) and the lowest numbered potentially hazardous asteroid. It has an extremely [eccentric orbit](https://en.wikipedia.org/wiki/Orbital_eccentricity) (0.83) and measures approximately 1.4 km (0.87 mi) in diameter.
