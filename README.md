@@ -14,5 +14,9 @@ The planets and other large objects in orbit around the Sun lie near the [invari
 
 As a result of the [formation of the Solar System](https://en.wikipedia.org/wiki/Formation_and_evolution_of_the_Solar_System), planets and most other objects orbit the Sun in the same direction that the Sun is rotating. That is, counter-clockwise, as viewed from above Earth's north pole. There are exceptions, such as [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet). Most of the larger moons orbit their planets in prograde direction, matching the direction of planetary rotation; Neptune's moon Triton is the largest to orbit in the opposite, retrograde manner. Most larger objects rotate around their own axes in the [prograde](https://en.wikipedia.org/wiki/Retrograde_and_prograde_motion) direction relative to their orbit, though the rotation of Venus is retrograde.
 
+</br>
 
+![Solar](https://github.com/user-attachments/assets/f54e20c1-dc37-4cde-a732-1f14a5547074)
+
+</br>
 
