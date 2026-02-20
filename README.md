@@ -117,3 +117,9 @@ A planetoid (or minor planet) orbits the Sun but is not a planet or comet.
 
 * [Apollo](https://en.wikipedia.org/wiki/Apollo_asteroid)
   * The Apollo asteroids are a [group of near-Earth asteroids](https://en.wikipedia.org/wiki/Near-Earth_object#Near-Earth_asteroids) named after [1862 Apollo](https://en.wikipedia.org/wiki/1862_Apollo), discovered by German astronomer Karl Reinmuth in the 1930s. They are [Earth-crossing asteroids](https://en.wikipedia.org/wiki/List_of_Earth-crossing_asteroids) that have an orbital semi-major axis greater than that of the Earth (a > 1 AU) but perihelion distances less than the Earth's aphelion distance (q < 1.017 AU).
+
+* [Aten](https://en.wikipedia.org/wiki/Aten_asteroid)
+  * The Aten asteroids are a dynamical group of asteroids whose orbits bring them into [proximity with Earth](https://en.wikipedia.org/wiki/Near-Earth_object). By definition, Atens are Earth-crossing asteroids (a < 1.0 AU and Q > 0.983 AU). The group is named after 2062 Aten, the first of its kind, discovered on 7 January 1976 by American astronomer Eleanor Helin at Palomar Observatory.
+ 
+
+
