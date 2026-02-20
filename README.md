@@ -61,3 +61,6 @@ The [angular momentum](https://en.wikipedia.org/wiki/Angular_momentum) of the So
 
 * [Pluto](https://en.wikipedia.org/wiki/Pluto)
   * Pluto (minor-planet designation: 134340 Pluto) is a dwarf planet in the [Kuiper belt](https://en.wikipedia.org/wiki/Kuiper_belt), a ring of bodies beyond the orbit of Neptune. It is the ninth-largest and tenth-most-massive known object to directly orbit the Sun.
+
+* [Sedna](https://en.wikipedia.org/wiki/Sedna_(dwarf_planet))
+  * Sedna (minor-planet designation: 90377 Sedna) is a dwarf planet in the outermost reaches of the Solar System, orbiting the Sun far beyond the [orbit of Neptune](https://en.wikipedia.org/wiki/Neptune#Orbit_and_rotation). It was discovered in 2003, and is roughly 1,000 km in diameter.
