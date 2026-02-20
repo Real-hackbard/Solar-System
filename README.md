@@ -121,5 +121,6 @@ A planetoid (or minor planet) orbits the Sun but is not a planet or comet.
 * [Aten](https://en.wikipedia.org/wiki/Aten_asteroid)
   * The Aten asteroids are a dynamical group of asteroids whose orbits bring them into [proximity with Earth](https://en.wikipedia.org/wiki/Near-Earth_object). By definition, Atens are Earth-crossing asteroids (a < 1.0 AU and Q > 0.983 AU). The group is named after 2062 Aten, the first of its kind, discovered on 7 January 1976 by American astronomer Eleanor Helin at Palomar Observatory.
  
-
+* [Eros](https://en.wikipedia.org/wiki/433_Eros)
+  * 433 Eros is a stony asteroid of the [Amor group](https://en.wikipedia.org/wiki/Amor_asteroid), and the first discovered, and second-largest near-Earth object. It has an elongated shape and a [volume-equivalent diameter](https://en.wikipedia.org/wiki/Equivalent_spherical_diameter) of approximately 16.8 kilometers (10.4 miles).
 
