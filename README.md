@@ -80,3 +80,6 @@ A comet is an icy, [small Solar System body](https://en.wikipedia.org/wiki/Small
 
 * [Brorsen](https://en.wikipedia.org/wiki/5D/Brorsen)
   * 5D/Brorsen (also known as Brorsen's Comet or Comet Brorsen) was a [periodic Jupiter-family](https://en.wikipedia.org/wiki/List_of_periodic_comets) comet discovered on February 26, 1846, by Danish astronomer [Theodor Brorsen](https://en.wikipedia.org/wiki/Theodor_Brorsen). The comet was last seen in 1879 and is now considered lost.
+
+* [Encke](https://en.wikipedia.org/wiki/Comet_Encke)
+  * Comet Encke /ˈɛŋki/, or Encke's Comet (official designation: 2P/Encke), is a [periodic comet](https://en.wikipedia.org/wiki/List_of_periodic_comets) that completes an orbit of the Sun once every 3.3 years.
