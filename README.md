@@ -150,3 +150,100 @@ A planetoid (or minor planet) orbits the Sun but is not a planet or comet.
 
 * [85 IO](https://en.wikipedia.org/wiki/85_Io)
   * 85 Io is a [carbonaceous asteroid](https://en.wikipedia.org/wiki/Carbonaceous_chondrite) in the central region of the asteroid belt, approximately 170 kilometers in diameter. It is an identified [Eunomian interloper](https://en.wikipedia.org/wiki/Eunomia_family#Interlopers).
+
+</br>
+
+# Set Date:
+```pascal
+procedure TForm1.NewOrbitals(Sender: TObject);
+var
+ sini, cosi :extended;
+  p, e, kn, a, ex, r: double;
+  i, j,x, y: integer;
+  cnv: tCanvas;
+begin
+  DateChange(Sender);
+  cnv := FBmpOrbital.canvas;
+  with cnv do
+  begin
+    Brush.Style:= bsSolid;
+    Brush.color := 0;
+    FillRect(fmyrect);
+  end;
+  i := 1;
+  for j := 0 to cl1.items.Count - 1 do
+    if cl1.Checked[j] then
+    begin
+      FarrChecked[i] := j;
+      Inc(i);
+    end;
+  FarrChecked[0] := i - 1;
+
+  for i := 1 to FarrChecked[0] do
+  begin
+    j:=FarrChecked[i];
+    cnv.pen.color   := farb[j mod 15];
+    cnv.brush.color := farb[j mod 15];
+    with FarrBahnDat[j] do
+    begin
+      col :=farb[j mod 15];
+      kn := bdkn;
+      a := bda;
+      ex := bdex;
+      {
+      lpe := bdlpe;
+      um := bdum;
+      }
+    end;
+    e := a * ex;
+//    b := sqrt(sqr(a) - sqr(e));
+    p := a-sqr(e) / a;
+    r := wert * p / (1 + ex * cos(0));
+    sincos(pino * kn, sini, cosi);
+    x := Fbx + round(r * cosi);
+    y := Fhx - round(r * sini);
+
+    cnv.moveto(x, y);
+    for j := 1 to 360 do
+    begin
+      r := wert * p / (1 + ex * cos(pino * j));
+      sincos(pino * (j + kn), sini, cosi);
+      x := Fbx + round(r * cosi);
+      y := Fhx - round(r * sini);
+      cnv.lineto(x, y);
+    end;
+  end;
+
+  if checkbox1.Checked then
+  begin
+    cnv.Brush.style := bsclear;
+    cnv.pen.color := clred;
+    cnv.pen.style := psdot;
+    cnv.ellipse(round(Fbx - wert * 3.4), round(Fhx - wert * 3.4),
+      round(fbx + wert * 3.4 + 1), round(Fhx + wert * 3.4 + 1));
+    cnv.ellipse(round(Fbx - wert * 2), round(Fhx - wert * 2),
+      round(Fbx + wert * 2 + 1), round(Fhx + wert * 2 + 1));
+    cnv.ellipse(round(Fbx - wert * 30), round(Fhx - wert * 30),
+      round(Fbx + wert * 30 + 1), round(Fhx + wert * 30 + 1));
+    cnv.ellipse(round(Fbx - wert * 50), round(Fhx - wert * 50),
+      round(Fbx + wert * 50 + 1), round(Fhx + wert * 50 + 1));
+    cnv.pen.style := pssolid;
+  end;
+
+//  x :=round(50/wert);
+{  if x<4 then
+    a:=50/wert
+  else
+    a := x;    }
+
+  cnv.pen.color := $00ffffff;
+  cnv.moveto(10, 10);
+  cnv.brush.style := bsclear;
+{  cnv.font.color := clwhite;
+  cnv.font.size := 8;
+  cnv.textout(15, 6, Format('  %7.4f AE', [a])); }
+  cnv.brush.color := clyellow;
+  cnv.ellipse(Fbx - 4, Fhx - 4, Fbx + 5, Fhx + 5);
+  PB1paint(self);
+end;
+```
