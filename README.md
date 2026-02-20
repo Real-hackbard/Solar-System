@@ -46,5 +46,6 @@ The [angular momentum](https://en.wikipedia.org/wiki/Angular_momentum) of the So
 * [Uranus](https://en.wikipedia.org/wiki/Uranus)
   * Uranus is the seventh planet from the Sun. It is a gaseous cyan-coloured [ice giant](https://en.wikipedia.org/wiki/Ice_giant). Most of the planet is made of water, ammonia, and [methane](https://en.wikipedia.org/wiki/Methane) in a [supercritical phase of matter](https://en.wikipedia.org/wiki/Supercritical_fluid), which astronomy calls "ice" or volatiles.
 
-
+* [Neptune](https://en.wikipedia.org/wiki/Neptune)
+  * Neptune is the eighth and farthest known planet orbiting the Sun. It is the fourth-largest planet in the Solar System by diameter, the third-most-massive planet, and the densest [giant planet](https://en.wikipedia.org/wiki/Giant_planet).
 
