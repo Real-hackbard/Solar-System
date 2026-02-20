@@ -28,7 +28,8 @@ The [angular momentum](https://en.wikipedia.org/wiki/Angular_momentum) of the So
 * [Mercury](https://en.wikipedia.org/wiki/Mercury_(planet))
   * Mercury is the first planet from the Sun and the [smallest in the Solar System](https://en.wikipedia.org/wiki/List_of_Solar_System_objects_by_size). It is a [rocky planet](https://en.wikipedia.org/wiki/Terrestrial_planet) with a trace atmosphere and a surface gravity slightly higher than that of Mars. The surface of Mercury is similar to Earth's Moon, being cratered, with an expansive rupes system generated from thrust faults, and bright ray systems, formed by ejecta.
  
-
+* [Venus](https://en.wikipedia.org/wiki/Venus)
+  * Venus is the second planet from the Sun. It is often called Earth's "twin" or "sister" among the planets of the Solar System for its orbit being the closest to Earth's, both being terrestrial planets, and having the most similar and nearly equal size, mass, and [surface gravity](https://en.wikipedia.org/wiki/Surface_gravity). Venus, though, is significantly different, especially as it has no liquid water, and its atmosphere is far thicker and denser than that of any other rocky body in the Solar System. The atmosphere is composed mostly of carbon dioxide and has a thick cloud layer of sulfuric acid that spans the whole planet.
 
 
 
