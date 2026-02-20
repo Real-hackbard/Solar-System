@@ -113,3 +113,7 @@ A comet is an icy, [small Solar System body](https://en.wikipedia.org/wiki/Small
 </br>
 
 # Planetoid:
+A planetoid (or minor planet) orbits the Sun but is not a planet or comet.
+
+* [Apollo](https://en.wikipedia.org/wiki/Apollo_asteroid)
+  * The Apollo asteroids are a [group of near-Earth asteroids](https://en.wikipedia.org/wiki/Near-Earth_object#Near-Earth_asteroids) named after [1862 Apollo](https://en.wikipedia.org/wiki/1862_Apollo), discovered by German astronomer Karl Reinmuth in the 1930s. They are [Earth-crossing asteroids](https://en.wikipedia.org/wiki/List_of_Earth-crossing_asteroids) that have an orbital semi-major axis greater than that of the Earth (a > 1 AU) but perihelion distances less than the Earth's aphelion distance (q < 1.017 AU).
