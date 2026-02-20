@@ -77,3 +77,6 @@ A comet is an icy, [small Solar System body](https://en.wikipedia.org/wiki/Small
 
 * [Brorsen-Mecalf](https://en.wikipedia.org/wiki/23P/Brorsen%E2%80%93Metcalf)
   * 23P/Brorsen–Metcalf is a [periodic comet](https://en.wikipedia.org/wiki/List_of_periodic_comets) with an orbital period of 70 years. It fits the classical definition of a [Halley-type comet](https://en.wikipedia.org/wiki/List_of_Halley-type_comets).
+
+* [Brorsen](https://en.wikipedia.org/wiki/5D/Brorsen)
+  * 5D/Brorsen (also known as Brorsen's Comet or Comet Brorsen) was a [periodic Jupiter-family](https://en.wikipedia.org/wiki/List_of_periodic_comets) comet discovered on February 26, 1846, by Danish astronomer [Theodor Brorsen](https://en.wikipedia.org/wiki/Theodor_Brorsen). The comet was last seen in 1879 and is now considered lost.
