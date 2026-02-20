@@ -58,3 +58,6 @@ The [angular momentum](https://en.wikipedia.org/wiki/Angular_momentum) of the So
 
 * [Haumea](https://simple.wikipedia.org/wiki/Haumea_(dwarf_planet))
   * 136108 Haumea (symbol 🝻) is a [dwarf planet](https://simple.wikipedia.org/wiki/Dwarf_planet) in the Solar System. Its discovery was announced in 2005 by astronomers Michael E. Brown, Chad Trujillo and David Rabinowitz of the United States, and J. L. Ortiz of Spain. 
+
+* [Pluto](https://en.wikipedia.org/wiki/Pluto)
+  * Pluto (minor-planet designation: 134340 Pluto) is a dwarf planet in the [Kuiper belt](https://en.wikipedia.org/wiki/Kuiper_belt), a ring of bodies beyond the orbit of Neptune. It is the ninth-largest and tenth-most-massive known object to directly orbit the Sun.
