@@ -247,3 +247,100 @@ begin
   PB1paint(self);
 end;
 ```
+
+</br>
+
+# Paint Solar System:
+```pascal
+procedure TForm1.PB1paint(Sender: TObject);
+var
+  kp: string;
+  um, kn, ex, r, a, e, p, po, lpe: real;
+  x, y, xp, yp, xa, ya: integer;
+  i, j: integer;
+
+  sini, cosi: extended;
+begin
+  Fziel.CopyRect(fbirect,FBmpOrbital.Canvas,fbirect);
+  for i := 1 to FarrChecked[0] do
+  begin
+    j := FarrChecked[i];
+    kp := cl1.items.strings[j];
+    with FarrBahnDat[j] do
+    begin
+      kn := bdkn;
+      a := bda;
+      ex := bdex;
+      lpe := bdlpe;
+      um := bdum;
+      fziel.brush.color := col;
+    end;
+    e := a * ex;
+    p := a-sqr(e)/ a;
+
+    po := FJuldat;
+    if (kp[1] <> 'K') and (kp[1] <> 'A') and (kp[1] <> 'P') then
+    begin
+      po := helio(FJuldat, kp);
+      r := wert * p / (1 + ex * cos(pino * (po - kn)));
+      sincos(pino * po, sini, cosi);
+      x := Fbx + round(r * cosi);
+      y := Fhx - round(r * sini);
+      fziel.ellipse(x - 3, y - 3, x + 4, y + 4);
+      fziel.brush.style := bsclear;
+      fziel.textout(x - 6, y + 4, kp);
+    end
+    Else
+      if (pos('Pluto', kp) <> 0) then
+      begin
+        po := po - juldat(trunc(lpe), round(365.25 * frac(lpe)), 1);
+        po := kn + 360.0 * po / 365.25 / um;
+        while po > 360 do
+          po := po - 360;
+        r := wert * p / (1 + ex * cos(pino * (po - kn)));
+        sincos(pino * po, sini, cosi);
+        x := Fbx + round(r * cosi);
+        y := Fhx - round(r * sini);
+        fziel.brush.style := bssolid;
+        fziel.ellipse(x - 4, y - 4, x + 4, y + 4);
+        fziel.brush.style := bsclear;
+        fziel.textout(x - 6, y + 4, 'Pluto');
+      end
+      else
+      begin
+      r := wert * p / (1 + ex);
+      sincos(pino * kn, sini, cosi);
+      xp := Fbx + round(r * cosi);
+      yp := Fhx - round(r * sini);
+
+      r := wert * p / (1 + ex * cos(pi));
+      sincos(pino * (180 + kn), sini, cosi);
+      xa := Fbx + round(r * cosi);
+      ya := Fhx - round(r * sini);
+      xp := (xp + xa) div 2;
+      yp := (yp + ya) div 2;
+
+      po := FJuldat;
+      po := po - juldat(trunc(lpe), round(365.25 * frac(lpe) / 30),
+        round(30.0 * frac(365.25 * frac(lpe) / 30)));
+
+      po := kn + 180.0 + 360.0 * po / 365.25 / um;
+      while po > 360 do
+        po := po - 360;
+      r := wert * p / (1 + ex * cos(pino * (po - kn)));
+      sincos(pino * po, sini, cosi);
+      x := Fbx + round(r * cosi);
+      y := Fhx - round(r * sini);
+      x := 2 * xp - x;
+      y := 2 * yp - y;
+      fziel.brush.style := bssolid;
+      fziel.ellipse(x - 4, y - 4, x + 4, y + 4);
+      if pos(' ', kp) > 0 then
+        kp := copy(kp, pos(' ', kp) + 1, 255);
+      fziel.brush.style := bsclear;
+      fziel.textout(x - 6, y + 4, kp);
+    end;
+  end;
+  PB1.Canvas.copyrect(fbirect, fziel, fmyrect);
+end;
+```
