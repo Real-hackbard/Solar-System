@@ -93,3 +93,6 @@ A comet is an icy, [small Solar System body](https://en.wikipedia.org/wiki/Small
 
 * [Herschel–Rigollet](https://en.wikipedia.org/wiki/35P/Herschel%E2%80%93Rigollet)
   * 35P/Herschel–Rigollet is a Halley-type comet with an [orbital period](https://en.wikipedia.org/wiki/Orbital_period) of 155 years and an [orbital inclination](https://en.wikipedia.org/wiki/Orbital_inclination) of 64 degrees. It was first discovered by [Caroline Herschel](https://en.wikipedia.org/wiki/Caroline_Herschel) on 21 December 1788. Given that the comet has a 155-year orbit involving asymmetric outgassing, and astrometric observations in 1939 were not as precise as modern observations, predictions for the next perihelion passage in 2092 vary by about a month.
+
+* [Kohoutek](https://en.wikipedia.org/wiki/C/1973_E1_(Kohoutek))
+  * Comet Kohoutek (pronounced "ko-HU-tek" /koʊˈhuːtɛk/, or "ko-ho-tek" /koʊhoʊtɛk/), formally designated as C/1973 E1, 1973 XII and 1973f, is a comet that passed close to the Sun towards the end of 1973. 
