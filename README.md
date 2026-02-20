@@ -102,3 +102,6 @@ A comet is an icy, [small Solar System body](https://en.wikipedia.org/wiki/Small
 
 * [Tempel](https://en.wikipedia.org/wiki/10P/Tempel)
   * 10P/Tempel, also known as Tempel 2, is a Jupiter-family comet with a 5.36-year orbit around the Sun. It was discovered on 4 July 1873 by [Wilhelm Tempel](https://en.wikipedia.org/wiki/Wilhelm_Tempel). At the [perihelion passage](https://en.wikipedia.org/wiki/Elongation_(astronomy)) on 2 August 2026 the solar elongation is calculated at 164 degrees, with [apparent magnitude](https://en.wikipedia.org/wiki/Apparent_magnitude) approximately 8, with closest approach to Earth on 3 August 2026 at a distance of 0.414 AU (61.9 million km).
+
+* [Churyumov–Gerasimenko](https://en.wikipedia.org/wiki/67P/Churyumov%E2%80%93Gerasimenko)
+  * 67P/Churyumov–Gerasimenko (abbreviated as 67P or 67P/C–G) is a Jupiter-family comet. It is originally from the [Kuiper belt](https://en.wikipedia.org/wiki/Kuiper_belt) and has an orbital period of 6.45 years as of 2012, a rotation period of approximately 12.4 hours, and a maximum velocity of 135,000 km/h (38 km/s; 84,000 mph).
