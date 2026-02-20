@@ -68,3 +68,8 @@ Minor planets or planetoids are astronomical objects that move in a direct orbit
 
 * [Sedna](https://en.wikipedia.org/wiki/Sedna_(dwarf_planet))
   * Sedna (minor-planet designation: 90377 Sedna) is a dwarf planet in the outermost reaches of the Solar System, orbiting the Sun far beyond the [orbit of Neptune](https://en.wikipedia.org/wiki/Neptune#Orbit_and_rotation). It was discovered in 2003, and is roughly 1,000 km in diameter.
+
+# Comets:
+A comet is an icy, [small Solar System body](https://en.wikipedia.org/wiki/Small_Solar_System_body) or [interstellar object](https://en.wikipedia.org/wiki/Interstellar_object) that warms and begins to release gases when passing close to the Sun, a process called [outgassing](https://en.wikipedia.org/wiki/Outgassing). This produces an extended, gravitationally unbound atmosphere or coma surrounding the nucleus, and sometimes a tail of gas and dust gas blown out from the coma.
+
+* 
