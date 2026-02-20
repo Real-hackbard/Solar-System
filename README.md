@@ -49,6 +49,6 @@ The [angular momentum](https://en.wikipedia.org/wiki/Angular_momentum) of the So
 * [Neptune](https://en.wikipedia.org/wiki/Neptune)
   * Neptune is the eighth and farthest known planet orbiting the Sun. It is the fourth-largest planet in the Solar System by diameter, the third-most-massive planet, and the densest [giant planet](https://en.wikipedia.org/wiki/Giant_planet).
 
-# Mnor Planets:
+# Minor Planets:
 * [Ceres](https://en.wikipedia.org/wiki/Ceres_(dwarf_planet))
   * Ceres ([minor-planet designation](https://en.wikipedia.org/wiki/Minor-planet_designation): 1 Ceres) is a [dwarf planet](https://en.wikipedia.org/wiki/Dwarf_planet) in the main asteroid belt between the orbits of Mars and Jupiter.
