@@ -52,3 +52,6 @@ The [angular momentum](https://en.wikipedia.org/wiki/Angular_momentum) of the So
 # Minor Planets:
 * [Ceres](https://en.wikipedia.org/wiki/Ceres_(dwarf_planet))
   * Ceres ([minor-planet designation](https://en.wikipedia.org/wiki/Minor-planet_designation): 1 Ceres) is a [dwarf planet](https://en.wikipedia.org/wiki/Dwarf_planet) in the main asteroid belt between the orbits of Mars and Jupiter.
+
+* [Eris](https://simple.wikipedia.org/wiki/Eris_(dwarf_planet))
+  * Eris (symbol ⯰) is a dwarf planet and a [trans-Neptunian](https://simple.wikipedia.org/wiki/Trans-Neptunian_object) object (TNO). It is the second-largest known dwarf planet in the Solar System. 
