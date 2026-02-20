@@ -12,7 +12,7 @@
 
 The planets and other large objects in orbit around the Sun lie near the [invariable plane of the Solar System](https://en.wikipedia.org/wiki/Invariable_plane#Solar_System), as does Earth's orbit, known as the [ecliptic](https://en.wikipedia.org/wiki/Ecliptic), and most closely the orbit of Jupiter, with an inclination to it of 0.3219°. Smaller icy objects such as comets frequently orbit at significantly greater angles to this plane. Most of the planets in the Solar System have secondary systems of their own, being orbited by natural satellites called moons. All of the largest natural satellites are in [synchronous rotation](https://en.wikipedia.org/wiki/Tidal_locking), with one face permanently turned toward their parent. The four giant planets have planetary rings, thin discs of tiny particles that orbit them in unison.
 
-
+As a result of the [formation of the Solar System](https://en.wikipedia.org/wiki/Formation_and_evolution_of_the_Solar_System), planets and most other objects orbit the Sun in the same direction that the Sun is rotating. That is, counter-clockwise, as viewed from above Earth's north pole. There are exceptions, such as [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet). Most of the larger moons orbit their planets in prograde direction, matching the direction of planetary rotation; Neptune's moon Triton is the largest to orbit in the opposite, retrograde manner. Most larger objects rotate around their own axes in the [prograde](https://en.wikipedia.org/wiki/Retrograde_and_prograde_motion) direction relative to their orbit, though the rotation of Venus is retrograde.
 
 
 
