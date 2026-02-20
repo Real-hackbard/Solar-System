@@ -99,3 +99,6 @@ A comet is an icy, [small Solar System body](https://en.wikipedia.org/wiki/Small
 
 * [Schwassmann-Wachmann](https://en.wikipedia.org/wiki/73P/Schwassmann%E2%80%93Wachmann)
   * 73P/Schwassmann–Wachmann, also known as Schwassmann–Wachmann 3 or SW3 for short, is a periodic comet that has a 5.4 year orbital period and that has been actively [disintegrating](https://en.wikipedia.org/wiki/Comet#Breakup_and_collisions) since 1995. When it came to [perihelion](https://en.wikipedia.org/wiki/Apsis#Perihelion_and_aphelion) (closest approach to the Sun) in March 2017, fragment 73P-BT was separating from the main fragment 73P-C. Fragments 73P-BU and 73P-BV were detected in July 2022.
+
+* [Tempel](https://en.wikipedia.org/wiki/10P/Tempel)
+  * 10P/Tempel, also known as Tempel 2, is a Jupiter-family comet with a 5.36-year orbit around the Sun. It was discovered on 4 July 1873 by [Wilhelm Tempel](https://en.wikipedia.org/wiki/Wilhelm_Tempel). At the [perihelion passage](https://en.wikipedia.org/wiki/Elongation_(astronomy)) on 2 August 2026 the solar elongation is calculated at 164 degrees, with [apparent magnitude](https://en.wikipedia.org/wiki/Apparent_magnitude) approximately 8, with closest approach to Earth on 3 August 2026 at a distance of 0.414 AU (61.9 million km).
