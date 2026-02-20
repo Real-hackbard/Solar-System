@@ -37,7 +37,8 @@ The [angular momentum](https://en.wikipedia.org/wiki/Angular_momentum) of the So
 * [Mars](https://en.wikipedia.org/wiki/Mars)
   * Mars is the fourth planet from the Sun. It is also known as the "Red Planet", for its [orange-red appearance](https://en.wikipedia.org/wiki/Mars_surface_color). Mars is a desert-like rocky planet with a tenuous atmosphere that is primarily [carbon dioxide](https://en.wikipedia.org/wiki/Carbon_dioxide) (CO2). At the average surface level the atmospheric pressure is a few thousandths of Earth's, atmospheric temperature ranges from −153 to 20 °C (−243 to 68 °F), and cosmic radiation is high.
 
-
+* [Jupiter](https://en.wikipedia.org/wiki/Jupiter)
+  * Jupiter is the fifth planet from the Sun, and the [largest in the Solar System](https://en.wikipedia.org/wiki/List_of_Solar_System_objects_by_size). It is a gas giant with a mass nearly 2.5 times that of all the other planets in the Solar System combined and slightly less than one-thousandth the mass of the Sun.
 
 
 
