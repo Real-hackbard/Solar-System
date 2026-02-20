@@ -126,3 +126,6 @@ A planetoid (or minor planet) orbits the Sun but is not a planet or comet.
 
 * [Davida](https://en.wikipedia.org/wiki/511_Davida)
   * 511 Davida is a large C-type asteroid in the [asteroid belt](https://en.wikipedia.org/wiki/Asteroid_belt). It is one of the [largest asteroids](https://en.wikipedia.org/wiki/List_of_exceptional_asteroids); approximately tied for 7th place, to within measurement uncertainties, and the 5th or 6th most massive.
+
+* [Hathor](https://en.wikipedia.org/wiki/2340_Hathor)
+  * 2340 Hathor (/ˈhæθɔːr, -ər/), provisional designation 1976 UA, is an eccentric stony asteroid, classified as near-Earth object and [potentially hazardous asteroid](https://en.wikipedia.org/wiki/Potentially_hazardous_object).
