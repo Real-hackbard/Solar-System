@@ -51,6 +51,8 @@ According to the [IAU](https://en.wikipedia.org/wiki/IAU_definition_of_planet) d
 * [Neptune](https://en.wikipedia.org/wiki/Neptune)
   * Neptune is the eighth and farthest known planet orbiting the Sun. It is the fourth-largest planet in the Solar System by diameter, the third-most-massive planet, and the densest [giant planet](https://en.wikipedia.org/wiki/Giant_planet).
 
+</br>
+
 # Minor Planets:
 Minor planets or planetoids are astronomical objects that move in a direct orbit around the sun, but do not meet the criteria for classification as a planet – because they have not cleared their orbit accordingly – and furthermore cannot be classified as a comet or meteoroid.
 
@@ -68,6 +70,8 @@ Minor planets or planetoids are astronomical objects that move in a direct orbit
 
 * [Sedna](https://en.wikipedia.org/wiki/Sedna_(dwarf_planet))
   * Sedna (minor-planet designation: 90377 Sedna) is a dwarf planet in the outermost reaches of the Solar System, orbiting the Sun far beyond the [orbit of Neptune](https://en.wikipedia.org/wiki/Neptune#Orbit_and_rotation). It was discovered in 2003, and is roughly 1,000 km in diameter.
+
+</br>
 
 # Comets:
 A comet is an icy, [small Solar System body](https://en.wikipedia.org/wiki/Small_Solar_System_body) or [interstellar object](https://en.wikipedia.org/wiki/Interstellar_object) that warms and begins to release gases when passing close to the Sun, a process called [outgassing](https://en.wikipedia.org/wiki/Outgassing). This produces an extended, gravitationally unbound atmosphere or coma surrounding the nucleus, and sometimes a tail of gas and dust gas blown out from the coma.
@@ -105,3 +109,7 @@ A comet is an icy, [small Solar System body](https://en.wikipedia.org/wiki/Small
 
 * [Churyumov–Gerasimenko](https://en.wikipedia.org/wiki/67P/Churyumov%E2%80%93Gerasimenko)
   * 67P/Churyumov–Gerasimenko (abbreviated as 67P or 67P/C–G) is a Jupiter-family comet. It is originally from the [Kuiper belt](https://en.wikipedia.org/wiki/Kuiper_belt) and has an orbital period of 6.45 years as of 2012, a rotation period of approximately 12.4 hours, and a maximum velocity of 135,000 km/h (38 km/s; 84,000 mph).
+
+</br>
+
+# Planetoid:
