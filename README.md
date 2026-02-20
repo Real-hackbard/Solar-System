@@ -90,3 +90,6 @@ A comet is an icy, [small Solar System body](https://en.wikipedia.org/wiki/Small
 * [Halley](https://simple.wikipedia.org/wiki/Halley%27s_Comet)
   * Halley's Comet (Comet Halley) is a comet which comes round every 75 or 76 years. When it is near, it can be seen with the naked eye. It will return in 2061.
     The comet is named after [Edmond Halley](https://simple.wikipedia.org/wiki/Edmond_Halley) (1656–1742), an English astronomer, who predicted the comet's return. Halley's Comet was the first comet to be recognized as periodic. (Periodic means that it comes by Earth regularly.)
+
+* [Herschel–Rigollet](https://en.wikipedia.org/wiki/35P/Herschel%E2%80%93Rigollet)
+  * 35P/Herschel–Rigollet is a Halley-type comet with an [orbital period](https://en.wikipedia.org/wiki/Orbital_period) of 155 years and an [orbital inclination](https://en.wikipedia.org/wiki/Orbital_inclination) of 64 degrees. It was first discovered by [Caroline Herschel](https://en.wikipedia.org/wiki/Caroline_Herschel) on 21 December 1788. Given that the comet has a 155-year orbit involving asymmetric outgassing, and astrometric observations in 1939 were not as precise as modern observations, predictions for the next perihelion passage in 2092 vary by about a month.
