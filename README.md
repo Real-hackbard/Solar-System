@@ -96,3 +96,6 @@ A comet is an icy, [small Solar System body](https://en.wikipedia.org/wiki/Small
 
 * [Kohoutek](https://en.wikipedia.org/wiki/C/1973_E1_(Kohoutek))
   * Comet Kohoutek (pronounced "ko-HU-tek" /koʊˈhuːtɛk/, or "ko-ho-tek" /koʊhoʊtɛk/), formally designated as C/1973 E1, 1973 XII and 1973f, is a comet that passed close to the Sun towards the end of 1973. 
+
+* [Schwassmann-Wacgmann](https://en.wikipedia.org/wiki/73P/Schwassmann%E2%80%93Wachmann)
+  * 73P/Schwassmann–Wachmann, also known as Schwassmann–Wachmann 3 or SW3 for short, is a periodic comet that has a 5.4 year orbital period and that has been actively [disintegrating](https://en.wikipedia.org/wiki/Comet#Breakup_and_collisions) since 1995. When it came to [perihelion](https://en.wikipedia.org/wiki/Apsis#Perihelion_and_aphelion) (closest approach to the Sun) in March 2017, fragment 73P-BT was separating from the main fragment 73P-C. Fragments 73P-BU and 73P-BV were detected in July 2022.
