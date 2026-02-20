@@ -135,3 +135,7 @@ A planetoid (or minor planet) orbits the Sun but is not a planet or comet.
 
 * [Juno](https://en.wikipedia.org/wiki/3_Juno)
   * Juno ([minor-planet designation](https://en.wikipedia.org/wiki/Minor-planet_designation): 3 Juno) is a large asteroid in the asteroid belt. Juno was the third asteroid discovered, in 1804, by German astronomer [Karl Harding](https://en.wikipedia.org/wiki/Karl_Ludwig_Harding).
+
+* [Kepler](https://en.wikipedia.org/wiki/Kepler-22b)
+  * Kepler-22b (also known by its Kepler Object of Interest designation KOI-087.01) is an exoplanet orbiting within the [habitable zone](https://en.wikipedia.org/wiki/Habitable_zone) of the Sun-like star Kepler-22. It is located about 640 [light-years](https://en.wikipedia.org/wiki/Light-year) (200 parsecs) from Earth in the constellation of [Cygnus](https://en.wikipedia.org/wiki/Cygnus_(constellation)).
+ 
