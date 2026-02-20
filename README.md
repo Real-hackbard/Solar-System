@@ -86,3 +86,8 @@ A comet is an icy, [small Solar System body](https://en.wikipedia.org/wiki/Small
 
 * [Giacobini–Zinner](https://en.wikipedia.org/wiki/21P/Giacobini%E2%80%93Zinner)
   * Comet Giacobini–Zinner (officially designated as 21P/Giacobini–Zinner) is a periodic comet in the Solar System. It was discovered by [Michel Giacobini](https://en.wikipedia.org/wiki/Michel_Giacobini), who observed it in the constellation of Aquarius on 20 December 1900.
+
+* [Halley](https://simple.wikipedia.org/wiki/Halley%27s_Comet)
+  * Halley's Comet (Comet Halley) is a comet which comes round every 75 or 76 years. When it is near, it can be seen with the naked eye. It will return in 2061.
+
+The comet is named after [Edmond Halley](https://simple.wikipedia.org/wiki/Edmond_Halley) (1656–1742), an English astronomer, who predicted the comet's return. Halley's Comet was the first comet to be recognized as periodic. (Periodic means that it comes by Earth regularly.)
