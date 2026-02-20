@@ -139,3 +139,5 @@ A planetoid (or minor planet) orbits the Sun but is not a planet or comet.
 * [Kepler](https://en.wikipedia.org/wiki/Kepler-22b)
   * Kepler-22b (also known by its Kepler Object of Interest designation KOI-087.01) is an exoplanet orbiting within the [habitable zone](https://en.wikipedia.org/wiki/Habitable_zone) of the Sun-like star Kepler-22. It is located about 640 [light-years](https://en.wikipedia.org/wiki/Light-year) (200 parsecs) from Earth in the constellation of [Cygnus](https://en.wikipedia.org/wiki/Cygnus_(constellation)).
  
+* [Kerstin](https://en.wikipedia.org/wiki/842_Kerstin)
+  * 842 Kerstin (prov. designation: A916 TB or 1916 AM) is a dark [background asteroid](https://en.wikipedia.org/wiki/Asteroid_family#Background_asteroid) from the outer regions of the asteroid belt. It was discovered on 1 October 1916, by German astronomer [Max Wolf](https://en.wikipedia.org/wiki/Max_Wolf) at the [Heidelberg-Königstuhl State Observatory](https://en.wikipedia.org/wiki/Heidelberg-K%C3%B6nigstuhl_State_Observatory) in southwest Germany.
