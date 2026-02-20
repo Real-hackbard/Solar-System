@@ -31,7 +31,8 @@ The [angular momentum](https://en.wikipedia.org/wiki/Angular_momentum) of the So
 * [Venus](https://en.wikipedia.org/wiki/Venus)
   * Venus is the second planet from the Sun. It is often called Earth's "twin" or "sister" among the planets of the Solar System for its orbit being the closest to Earth's, both being terrestrial planets, and having the most similar and nearly equal size, mass, and [surface gravity](https://en.wikipedia.org/wiki/Surface_gravity). Venus, though, is significantly different, especially as it has no liquid water, and its atmosphere is far thicker and denser than that of any other rocky body in the Solar System. The atmosphere is composed mostly of carbon dioxide and has a thick cloud layer of [sulfuric acid](https://en.wikipedia.org/wiki/Sulfuric_acid) that spans the whole planet.
 
-
+* [Earth](https://en.wikipedia.org/wiki/Earth)
+  * Earth is the third planet from the Sun and the only astronomical object known to harbor life. This is made possible by Earth being an [ocean world](https://en.wikipedia.org/wiki/Ocean_world), the only one in the Solar System sustaining liquid surface water. Almost all of Earth's water is contained in its global ocean, covering 70.8% of Earth's crust. The remaining 29.2% of Earth's crust is land, most of which is located in the form of continental landmasses within Earth's land hemisphere.
 
 
 
