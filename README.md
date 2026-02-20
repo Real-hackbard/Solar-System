@@ -74,3 +74,6 @@ A comet is an icy, [small Solar System body](https://en.wikipedia.org/wiki/Small
 
 * [Biela](https://en.wikipedia.org/wiki/Biela%27s_Comet)
   * Biela's Comet or Comet Biela (official designation: 3D/Biela) was a periodic [Jupiter-family comet](https://en.wikipedia.org/wiki/Jupiter-family_comet) first recorded in 1772 by Montaigne and [Messier](https://en.wikipedia.org/wiki/Charles_Messier) and finally identified as periodic in 1826 by Wilhelm von Biela.
+
+* [Brorsen-Mecalf](https://en.wikipedia.org/wiki/23P/Brorsen%E2%80%93Metcalf)
+  * 23P/Brorsen–Metcalf is a [periodic comet](https://en.wikipedia.org/wiki/List_of_periodic_comets) with an orbital period of 70 years. It fits the classical definition of a [Halley-type comet](https://en.wikipedia.org/wiki/List_of_Halley-type_comets).
