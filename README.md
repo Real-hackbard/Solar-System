@@ -89,5 +89,4 @@ A comet is an icy, [small Solar System body](https://en.wikipedia.org/wiki/Small
 
 * [Halley](https://simple.wikipedia.org/wiki/Halley%27s_Comet)
   * Halley's Comet (Comet Halley) is a comet which comes round every 75 or 76 years. When it is near, it can be seen with the naked eye. It will return in 2061.
-
-The comet is named after [Edmond Halley](https://simple.wikipedia.org/wiki/Edmond_Halley) (1656–1742), an English astronomer, who predicted the comet's return. Halley's Comet was the first comet to be recognized as periodic. (Periodic means that it comes by Earth regularly.)
+    The comet is named after [Edmond Halley](https://simple.wikipedia.org/wiki/Edmond_Halley) (1656–1742), an English astronomer, who predicted the comet's return. Halley's Comet was the first comet to be recognized as periodic. (Periodic means that it comes by Earth regularly.)
