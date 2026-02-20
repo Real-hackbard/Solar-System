@@ -132,3 +132,6 @@ A planetoid (or minor planet) orbits the Sun but is not a planet or comet.
 
 * [Icarus](https://en.wikipedia.org/wiki/1566_Icarus)
   * 1566 Icarus (/ˈɪkərəs/ IK-ə-rəs; provisional designation: 1949 MA) is a large near-Earth object of the [Apollo group](https://en.wikipedia.org/wiki/Apollo_asteroid) and the lowest numbered potentially hazardous asteroid. It has an extremely [eccentric orbit](https://en.wikipedia.org/wiki/Orbital_eccentricity) (0.83) and measures approximately 1.4 km (0.87 mi) in diameter.
+
+* [Juno](https://en.wikipedia.org/wiki/3_Juno)
+  * Juno ([minor-planet designation](https://en.wikipedia.org/wiki/Minor-planet_designation): 3 Juno) is a large asteroid in the asteroid belt. Juno was the third asteroid discovered, in 1804, by German astronomer [Karl Harding](https://en.wikipedia.org/wiki/Karl_Ludwig_Harding).
