@@ -13,6 +13,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Moon Phase Calendar |
 | 1.0.x   | :white_check_mark: Keplers Laws |
 | 1.0.x   | :white_check_mark: Mercury Perihelical Precession |
+| 1.0.x   | :white_check_mark: Cluster Calculator |
 
 ## Reporting a Vulnerability
 
