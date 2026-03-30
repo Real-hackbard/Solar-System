@@ -16,6 +16,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Cluster Calculator |
 | 1.0.x   | :white_check_mark: Earth |
 | 1.0.x   | :white_check_mark: Galaxy |
+| 1.0.x   | :white_check_mark: Earth Day Night Switcher |
 
 ## Reporting a Vulnerability
 
