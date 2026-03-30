@@ -15,6 +15,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Mercury Perihelical Precession |
 | 1.0.x   | :white_check_mark: Cluster Calculator |
 | 1.0.x   | :white_check_mark: Earth |
+| 1.0.x   | :white_check_mark: Galaxy |
 
 ## Reporting a Vulnerability
 
